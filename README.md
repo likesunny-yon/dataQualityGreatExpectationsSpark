@@ -31,5 +31,4 @@
     |   ├───jobs
     │       └───job_processed_data.py         # main script with Great Expectations test cases
     └───main.py                               # file that initializes the Spark script execution
-                             # arquivo que inicializa a execução do script Spark
 ```
